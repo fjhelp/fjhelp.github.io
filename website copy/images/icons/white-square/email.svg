@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>email</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" fill="#D8D8D8" fill-rule="evenodd">
+        <g id="Rectangles">
+            <path d="M0,0 L0,22 L22,22 L22,0 L0,0 Z M0,0" id="Rectangle 1 copy 4" fill="#FFFFFF"></path>
+        </g>
+        <path d="M5,5.88224031 L17,5.88224031 L17,6.0511752 L11.0015685,9.94660213 L5,6.04913795 Z M11.2591263,11.7280892 L11.300023,11.7910646 L17,8.08945625 L17,14.4994337 L5,14.4994337 L5,8.087419 L11.0654301,12.0263553 Z M11.2591263,11.7280892" id="Email" fill="#000000"></path>
+    </g>
+</svg>

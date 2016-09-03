@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>flickr</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" fill="#D8D8D8" fill-rule="evenodd">
+        <g id="Rectangles">
+            <path d="M11,0 C4.92486775,0 0,4.923532 0,11 L0,11 C0,17.0751322 4.923532,22 11,22 L11,22 C17.0751322,22 22,17.076468 22,11 L22,11 C22,4.92486775 17.076468,0 11,0 L11,0 Z M11,0" id="Rectangle 1 copy" fill="#000000"></path>
+        </g>
+        <path d="M7,8 C8.65710052,8 10,9.34268243 10,10.9995151 C10,12.6563478 8.65710052,14 7,14 C5.34289948,14 4,12.6563478 4,10.9995151 C4,9.34268243 5.34289948,8 7,8 Z M15,8 C16.6571005,8 18,9.34268243 18,10.9995151 C18,12.6563478 16.6571005,14 15,14 C13.3428995,14 12,12.6563478 12,10.9995151 C12,9.34268243 13.3428995,8 15,8 Z M15,8" id="Flickr" fill="#FFFFFF"></path>
+    </g>
+</svg>
